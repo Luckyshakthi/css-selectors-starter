@@ -113,16 +113,8 @@ ul{
     gap: 12px;
 }
 
-/* --------------- */
-/* LINK AND LINK HOVER STYLES */
-/* --------------- */
-/* ----- */
-/* 
-    TO DO:
-    select all of the links on the page using the tag name selector
-*/
-/* ----- */
-{
+
+a{
     color: var(--blue);
 }
 
