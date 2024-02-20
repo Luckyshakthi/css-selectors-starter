@@ -123,28 +123,15 @@ a:hover{
     text-decoration: none;
 }
 
-/* ----- */
-/* 
-    TO DO:
-    select the links on the page when they have keyboard focus using the tag name and pseudo-class  selector
-*/
-/* ----- */
-{
+
+a:focus{
     text-decoration: none;
     outline: 4px solid var(--dv-med-blue);
     outline-offset: 2px;
 }
 
-/* --------------- */
-/* MAIN STYLES */
-/* --------------- */
-/* ----- */
-/* 
-    TO DO:
-    select the main element by tag name
-*/
-/* ----- */
-{
+
+main{
     width: 100%;
     max-width: 1200px;
     margin: 2rem auto;
