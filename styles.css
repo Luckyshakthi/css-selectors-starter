@@ -94,7 +94,7 @@ body{
     select the header and footer by tag name
 */
 /* ----- */
-{
+header,footer{
     padding: 2rem 1rem;
     background-color: var(--white);
     width: 100%;
