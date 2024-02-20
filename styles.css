@@ -118,13 +118,8 @@ a{
     color: var(--blue);
 }
 
-/* ----- */
-/* 
-    TO DO:
-    select the links on the page when a user hovers over them using the tag name and pseudo-class  selector
-*/
-/* ----- */
-{
+
+a:hover{
     text-decoration: none;
 }
 
