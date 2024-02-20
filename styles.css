@@ -161,11 +161,7 @@ p{
 }
 
 
-
-    TO DO:
-    select the images and SVGs by tag names
-
-{
+img,svg{
     display: block;
     width: 100%;
     height: auto;
