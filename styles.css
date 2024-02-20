@@ -153,38 +153,26 @@ main > section{
 }
 
 
-paragraph{
+p{
     padding: 1rem; 
     font-size: 1.2rem;
     max-width: 65ch;
     margin: 0 auto;
 }
 
-/* --------------- */
-/* IMAGE STYLES */
-/* --------------- */
-/* ----- */
-/* 
+
+
     TO DO:
     select the images and SVGs by tag names
-*/
-/* ----- */
+
 {
     display: block;
     width: 100%;
     height: auto;
 }
 
-/* --------------- */
-/* SPAN STYLES */
-/* --------------- */
-/* ----- */
-/* 
-TO DO:
-select all of the spans by tag name
-*/
-/* ----- */
-{
+
+span{
     display: block;
 }
 
