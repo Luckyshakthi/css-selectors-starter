@@ -172,34 +172,16 @@ span{
     display: block;
 }
 
-/* ------------------------------------ */
-/* STYLES BY SECTION IN MAIN */
-/* ------------------------------------ */
-/* --------------- */
-/* IMAGE STYLES SECTION CONTENT STYLES */
-/* --------------- */
-/* ----- */
-/* 
-    TO DO:
-    select the h2 in the first section using the ID, tag name, and child/descendant selectors
-*/
-/* ----- */
-{
+
+    
+
+#image h2{
     padding: 12px 0;
     background-color: var(--blue);
     color: var(--white);
 }
 
-/* --------------- */
-/* NAVIGATION SECTION CONTENT STYLES */
-/* --------------- */
-/* ----- */
-/* 
-    TO DO:
-    select the h2 in the second section using the ID, tag name, and child/descendant selectors
-*/
-/* ----- */
-{
+#nav h2{
     padding: 12px 0;
     background-color: var(--green);
     color: var(--white);
