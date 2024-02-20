@@ -95,38 +95,19 @@ h1,h2{
     letter-spacing: 1px;
 }
 
-/* ----- */
-/* 
-    TO DO:
-    select the h2 tags by tag name
-*/
-/* ----- */
-{
+
+h2{
     font-size: 1.75rem;
     margin: 0.25rem;
 }
 
-/* ----- */
-/* 
-    TO DO:
-    select the h3 tags by tag name
-*/
-/* ----- */
-{
+
+h3{
     font-size: 1.5rem;
     margin: 0.25rem;
 }
 
-/* --------------- */
-/* UNORDERED LIST STYLES */
-/* --------------- */
-/* ----- */
-/* 
-    TO DO:
-    select all of the unordered lists on the page using the tag name selector
-*/
-/* ----- */
-{
+ul{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 12px;
