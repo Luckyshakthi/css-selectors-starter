@@ -155,7 +155,7 @@ main > section{
 
 p{
     padding: 1rem; 
-    font-size: 1.2rem;
+    font-size:1.2rem;
     max-width: 65ch;
     margin: 0 auto;
 }
@@ -193,7 +193,7 @@ span{
     select the unordered list in the navigation using the tag names and child/descendant selector
 */
 /* ----- */
-{
+ul,{
     display: block;
     list-style-type: none;
     padding: 0;
