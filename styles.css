@@ -450,12 +450,7 @@ th, td{
     padding: 4px;
 }
 
-/* ----- */
-/* 
-    TO DO:
-    select the table footer in the table styles section using the element/tag name selector
-*/
-/* ----- */
+
 tfoot{ 
     font-weight: bold;
 }
