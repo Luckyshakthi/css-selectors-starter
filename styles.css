@@ -51,8 +51,7 @@
     --filter-shadow-lg: drop-shadow(-6px 6px 10px var(--med-gray));
 }
 
-
-header{
+*{
     font-family: var(--fonts);
     line-height: 1.3;
     color: var(--dk-gray);
@@ -75,7 +74,7 @@ header,footer{
 }
 
 
-{
+header{
     margin: 0 auto 2rem auto;
 }
 
@@ -193,7 +192,7 @@ span{
     select the unordered list in the navigation using the tag names and child/descendant selector
 */
 /* ----- */
-ul,{
+{
     display: block;
     list-style-type: none;
     padding: 0;
