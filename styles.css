@@ -186,26 +186,14 @@ span{
     color: var(--white);
 }
 
-/* ----- */
-/* 
-    TO DO:
-    select the unordered list in the navigation using the tag names and child/descendant selector
-*/
-/* ----- */
-{
+nav ul{
     display: block;
     list-style-type: none;
     padding: 0;
     text-align: center;
 }
 
-/* ----- */
-/* 
-    TO DO:
-    select the list items in the navigation using the tag names and child/descendant selector
-*/
-/* ----- */
-{
+nav li{
     display: block;
     width: 100%;
 }
